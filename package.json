@@ -1,7 +1,7 @@
 {
   "name": "angular-stagger",
   "description": "An angular service that pushes elements in an array with a delay to create staggering animations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Knorcedger",
   "bugs": "https://github.com/Knorcedger/angular-stagger/issues",
   "devDependencies": {
